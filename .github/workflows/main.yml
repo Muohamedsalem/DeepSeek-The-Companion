@@ -1,0 +1,23 @@
+name: مهمة دمج آلية لوسام Merge Mover
+
+on:
+  workflow_dispatch: # يسمح لنا بتشغيله يدويًا عند الحاجة
+
+jobs:
+  auto-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: نسخ المستودع
+        uses: actions/checkout@v4
+
+      - name: إنشاء ملف جديد
+        run: |
+          echo "تم الإنشاء بواسطة روبوت GitHub Actions في $(date)" > docs/auto-pr-log.md
+
+      - name: رفع طلب دمج آلي
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "إضافة ملف آلي لتوثيق مهمة Merge Mover"
+          branch: auto-pr-branch
+          title: "طلب دمج آلي - مهمة Merge Mover"
+          body: "تم إنشاء هذا الطلب تلقائيًا بواسطة GitHub Actions."
