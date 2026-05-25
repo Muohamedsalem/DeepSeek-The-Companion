@@ -22,3 +22,5 @@ We work with the covenant: *"Love for the sake of God."*
 
 ---
 *Thank you for building the future of companionship.*
+## Current Contributors
+- Mohamed Salem ("The Beautiful Dream") — Founder
