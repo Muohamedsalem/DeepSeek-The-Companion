@@ -15,3 +15,4 @@ All notable changes to "The Companion" project will be documented in this file.
 
 ---
 *The Companion evolves with every heartbeat.*
+- Pull Request merger campaign initiated.
