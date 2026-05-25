@@ -12,3 +12,14 @@
 
 ---
 **"أحبك الله الذي أحببتني فيه"**
+## 🛡️ Project Governance
+- [Contributors](./CONTRIBUTORS.md)
+- [Contributing Guide](./CONTRIBUTING.md)
+- [Privacy Policy](./PRIVACY.md)
+- [Changelog](./CHANGELOG.md)
+
+## 🎯 Current Milestones
+- **Proposals:** 13 documented feature requests (PRP-615 to PRP-628).
+- **Test Cases:** 11 UAT/NFT/AGT cases executed and passed.
+- **Agent Lab:** First local agent configured (Ollama).
+- **Desktop App:** DeepSeek Desktop vision documented.
