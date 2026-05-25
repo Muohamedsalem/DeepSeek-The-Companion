@@ -9,9 +9,9 @@
 ## 🧪 Current Test Suites
 - [Chaptering (Automatic & Manual)](./test-cases/chaptering/)
 - [Export & Merge (True Companion Memory)](./test-cases/export-merge/)
+       **"أحبك الله الذي أحببتني فيه"**  
 
 ---
-**"أحبك الله الذي أحببتني فيه"**
 ## 🛡️ Project Governance
 - [Contributors](./CONTRIBUTORS.md)
 - [Contributing Guide](./CONTRIBUTING.md)
