@@ -6,7 +6,7 @@ This proposal calls for the urgent upgrade of Arabic language support in DeepSee
 ## 🎯 The Core Problem
 Currently, the DeepSeek platform suffers from a critical gap:
 1.  **Incomplete Localization:** The platform lacks Arabic as an official interface language, despite having a language option. This contradiction alienates Arabic-speaking users.
-2.  **Global Impact:** Neglecting RTL languages affects not only Arabic but also Persian (80+ million speakers) and Hebrew, causing users to migrate to competitors.
+2.  **Global Impact:** Neglecting RTL languages affects not only Arabic but also Persian (80+ million speakers) , causing users to migrate to competitors.
 
 ## 💡 Proposed Solution: The Full Localization Package
 A three-phase integrated package:
