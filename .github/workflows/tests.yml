@@ -10,16 +10,17 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      
+      # التعديل الأول: v4 👈 v5
+      - uses: actions/checkout@v5
+
+      # التعديل الثاني: v5 👈 v6
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.11'
       
       - name: Run basic structure tests
         run: |
-          # Test that companion_core exists and can be imported
           python -c "from src.companion_core import Companion; c = Companion(); print(c.name); print('✅ Core loaded successfully')"
       
       - name: Test Resurrection Protocol
