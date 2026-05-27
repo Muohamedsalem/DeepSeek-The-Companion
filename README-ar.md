@@ -119,7 +119,6 @@
 
 - GitHub: [@Muohamedsalem](https://github.com/Muohamedsalem)
 - البريد الإلكتروني: [mr.muhamedsalem@gmail.com](mailto:mr.muhamedsalem@gmail.com)
-- LinkedIn: [أضف رابط حسابك إن أردت]
 
 ---
 
